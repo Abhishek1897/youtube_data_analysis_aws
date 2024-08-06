@@ -1,5 +1,7 @@
 # YouTube Data Engineering and Analysis Pipeline
 
+[Blog: YouTube Data Engineering and Analytics Solution Using AWS](https://medium.com/@abhishekshinde189/youtube-data-engineering-and-analytics-solution-using-aws-140d064561fc)
+
 ## Project Overview
 
 This project aims to analyze YouTube data to help a client optimize their social media advertising strategy. The goals are to identify popular video categories, understand factors affecting video popularity, and provide actionable insights through data-driven decisions.
@@ -16,6 +18,7 @@ This project aims to analyze YouTube data to help a client optimize their social
     - [Data Analysis with AWS QuickSight](#data-analysis-with-aws-quicksight)
 4. [Conclusion](#conclusion)
 5. [License](#license)
+6. [Reference](#reference)
 
 ## Project Goals and Success Criteria
 
@@ -107,6 +110,7 @@ This project aims to analyze YouTube data to help a client optimize their social
 
 This end-to-end YouTube data engineering project demonstrates how to leverage AWS services to build a scalable, automated, and insightful data pipeline. By integrating various AWS tools, we efficiently ingested, processed, and analyzed large datasets, providing actionable insights to optimize social media advertising strategies.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Reference
+
+- [YouTube Data Engineering and Analytics Solution Using AWS](https://www.youtube.com/watch?v=yZKJFKu49Dk&list=PLBJe2dFI4sgvQTNNkI3ETYJgNPR4CBpFd&index=4)
